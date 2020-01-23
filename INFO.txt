@@ -1,0 +1,2 @@
+Required subsidary files are in the .zip file.
+Note : Do extract the .zip file and html script at same place.
