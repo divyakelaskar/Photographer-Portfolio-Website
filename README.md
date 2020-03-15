@@ -1,5 +1,5 @@
 # Photographer-Portpolio-Website
-This is a photographer portpolio website.
+A website for photographer to represent his/her works.
 
 ## 1. Home Page :
 ![homepage](https://raw.githubusercontent.com/divyakelaskar/Portpolio-Website/master/homepage.png)
