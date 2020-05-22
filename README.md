@@ -1,8 +1,8 @@
-https://portpolio.netlify.app/# Photographer-Portpolio-Website
+# Photographer-Portpolio-Website
 A website for photographer to represent his/her works.
 
 ## Check it out 👇
-[![Netlify Status](https://portpolio.netlify.app/)
+## https://portpolio.netlify.app
 
 ## 1. Home Page :
 ![homepage](https://raw.githubusercontent.com/divyakelaskar/Portpolio-Website/master/homepage.png)
@@ -14,4 +14,4 @@ A website for photographer to represent his/her works.
 ![homepage](https://raw.githubusercontent.com/divyakelaskar/Portpolio-Website/master/contactpage.png)
 
 ## 4. About Page :
-![homepage](https://raw.githubusercontent.com/divyakelaskar/Portpolio-Website/master/aboutpage.png)
+![homepage](https://raw.githubusercontent.com/divyakelaskar/Portpolio-Website/master/aboutpage.png) 
