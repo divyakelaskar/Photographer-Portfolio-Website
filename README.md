@@ -1,4 +1,4 @@
-# Photographer-Portpolio-Website
+# Photographer-Portfolio-Website
 A website for photographer to represent his/her works.
 
 ## Check it out 👇
