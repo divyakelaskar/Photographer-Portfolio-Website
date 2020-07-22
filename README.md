@@ -1,7 +1,7 @@
 # Photographer-Portfolio-Website
 A website for photographer to represent his/her works.
 
-## Succesfully deployed on 👇
+## Successfully deployed on 👇
 ## https://portpolio.netlify.app
 
 ## 1. Home Page :
